@@ -15,3 +15,4 @@ mod r#type;
 mod type_var;
 mod type_var_equation;
 mod type_var_equation_set;
+mod unification;
